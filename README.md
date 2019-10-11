@@ -17,7 +17,7 @@
 	
 ### Lunch (Order) (12:00 - 12:30)
 
-- **Workshop** - Personal development in Pragmatic Labs (13:00 - 14:00) **Group**
+- **Workshop** - Personal development in Pragmatic Labs (13:00 - 14:00) **Group** [optional]
 	- Answer three questions:
 		- Why am I here
 		- How would develop in my role
@@ -27,7 +27,7 @@
 	-	Technologies in demand (Swe/Int)
 	-	Technologies in decline (What will replace them?)
 	-	Technologies on the rise (What will have the biggest market shares?)
-- **Workshop** - How to market CA, CA-Labs & CA-nomads (15:00 - 16:00) **Pairs**
+- **Workshop** - How to market CA, CA-Labs & CA-nomads (15:00 - 16:00) **Pairs** [optional]
 	- How to market Craft Academy/ External courses
 	- How to market CA-Labs
 	- How to market Teachable/CA Nomads
