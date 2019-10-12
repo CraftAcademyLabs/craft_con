@@ -6,3 +6,8 @@ Answer the following questions:
 - How can we use the final projects in our marketing efforts
 
 **Notes:**
+
+- Try out to charge for the final projects from external clients
+- Clients need to push out the project on social media 
+- Labs harvest the codebase with head coach
+- Seth sets up recording equipment and teaches one of the staff member.
