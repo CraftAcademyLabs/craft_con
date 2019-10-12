@@ -6,6 +6,13 @@ Answer the following questions:
 - What kind of scenarios could we potenially encounter in the future which could risk a good outcome from the final projects.
 - What strategies should we use in the different cases?
 - What policies should we have when dealing with issues during final projects.
-- Pricing for external clients
 
 **Notes:**
+- Give us a rough draft of the presentation
+  - problem set
+  - solutions
+  - Go through the presentation with Rupert
+  - We decide if they present or not.
+  - Coaches that are not involved review their presentation.
+  
+  
