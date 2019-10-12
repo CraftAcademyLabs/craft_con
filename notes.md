@@ -12,23 +12,25 @@
 - Add the AUT Cycle in Portfolio challenge
 - Remove BMI challenge from week 7 & build react native client for the cooper challenge.
 
-## ITP
-Week 1 Fundementals of programming + Fundematals of Web Technologies (HTTP, req-res, TCP/IP, etc) + Git
-Week 2 Ruby basics + Testing (fizz buzz, etc)
-Week 3 JavaScript course + Testing (Cypress) - BMI challenge
-Week 4 Address book challenge
+## ITP (Le future)
+- Week 1 Fundementals of programming + Fundematals of Web Technologies (HTTP, req-res, TCP/IP, etc) + Git
+- Week 2 Ruby basics + Testing (fizz buzz, etc)
+- Week 3 JavaScript course + Testing (Cypress) - BMI challenge
+- Week 4 Address book challenge
 
 ## Weeks
 - Week 1 ATM challenge - Weekend Challenge Library challenge
-- Week 2 
+- Week 2 Address book challenge with cypress 
+  - (Add Rails introduction basic CRUD only RSpec for acceptance test)
 - Week 3 Portfolio with AUT (cypress/jest) - Weekend challenge BMI challenge
 
+ **(Future)**
 - Week 4 Legacy code in React/Rails
+- Week 7 Cooper challenge
 - Week 5 SlowFood Challenge
 - Week 6 Mid course Project
-- Week 7 Cooper challenge
 
-- Week 8 NewsRoom challenge
+- Week 8 NewsRoom challenge (Make it into Legacy code)
 - Week 9 NewsRoom challenge
 - Week 10 NewsRoom challenge (Mobile client)
 - Week 11 Final Project
