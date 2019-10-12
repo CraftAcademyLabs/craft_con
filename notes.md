@@ -4,4 +4,26 @@
 - Be more strict with the registration fee of 9700kr (it's a non-refundable fee)
 - Add 3 month in advance to the terms for the 5% discount.
 
+## Technology discussion
+- Problems with testing react native
+- Greg & Adi will figure out testing for React Native
+- Add cypress/jest-enzyme to Portfolio challenge - Add the BMI challenge as a weekend challenge
+- Move away from cucumber.js in the addressbook challenge and change to cypress
+- Add the AUT Cycle in Portfolio challenge
+- Remove BMI challenge from week 7 & build react native client for the cooper challenge.
 
+## Weeks
+- Week 1 ATM challenge - Weekend Challenge Library challenge
+- Week 2 Address book with cypress 
+- Week 3 Portfolio with AUT (cypress/jest) - Weekend challenge BMI challenge
+
+- Week 4 Legacy code in React/Rails
+- Week 5 SlowFood Challenge
+- Week 6 Mid course Project
+- Week 7 Cooper challenge
+
+- Week 8 NewsRoom challenge
+- Week 9 NewsRoom challenge
+- Week 10 NewsRoom challenge (Mobile client)
+- Week 11 Final Project
+- Week 12 Final Project
