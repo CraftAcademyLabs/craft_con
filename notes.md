@@ -32,6 +32,6 @@
 
 - Week 8 NewsRoom challenge (Make it into Legacy code)
 - Week 9 NewsRoom challenge
-- Week 10 NewsRoom challenge (Mobile client)
+- Week 10 NewsRoom challenge (Mobile client in React Native)
 - Week 11 Final Project
 - Week 12 Final Project
