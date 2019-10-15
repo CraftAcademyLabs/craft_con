@@ -22,7 +22,8 @@
 - Week 1 ATM challenge - Weekend Challenge Library challenge
 - Week 2 Rails Monolith AUT cycle
   - (Add Rails introduction basic CRUD only RSpec for acceptance test)
-- Week 3 Portfolio with AUT (cypress/jest) - Weekend challenge BMI challenge
+- Week 3 Portfolio with AUT (React) (cypress/jest) 
+  - Weekend challenge BMI challenge (React)
 
  **(Future)**
 - Week 4 Legacy code in React/Rails
