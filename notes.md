@@ -20,7 +20,7 @@
 
 ## Weeks
 - Week 1 ATM challenge - Weekend Challenge Library challenge
-- Week 2 Address book challenge with cypress 
+- Week 2 Rails Monolith AUT cycle
   - (Add Rails introduction basic CRUD only RSpec for acceptance test)
 - Week 3 Portfolio with AUT (cypress/jest) - Weekend challenge BMI challenge
 
