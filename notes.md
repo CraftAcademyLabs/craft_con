@@ -20,19 +20,15 @@
 
 ## Weeks
 - Week 1 ATM challenge - Weekend Challenge Library challenge
-- Week 2 Rails Monolith AUT cycle
+- Week 2 Rails Monolith AUT cycle + Legacy Code Challenge
   - (Add Rails introduction basic CRUD only RSpec for acceptance test)
-- Week 3 Portfolio with AUT (React) (cypress/jest) 
-  - Weekend challenge BMI challenge (React)
-
- **(Future)**
-- Week 4 Legacy code in React/Rails
-- Week 7 Cooper challenge
-- Week 5 SlowFood Challenge
+- Week 3 Portfolio Challenge with AUT (React) (cypress/jest-enzyme) (Weekend Challenge: CV using TDD and styling)
+- Week 4 BMI challenge  + Cooper Challenge in React/Rails
+- Week 5 SlowFood Challenge in React/Rails
 - Week 6 Mid course Project
-
-- Week 8 NewsRoom challenge (Make it into Legacy code)
-- Week 9 NewsRoom challenge
-- Week 10 NewsRoom challenge (Mobile client in React Native)
+- Week 7 NewsRoom challenge (Make it into Legacy code)
+- Week 8 NewsRoom challenge
+- Week 9 NewsRoom challenge (Mobile client in React Native)
+- Week 10 Advanced Web Development Essentials + Deep Git Dive + NodeJS 
 - Week 11 Final Project
 - Week 12 Final Project
