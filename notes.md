@@ -26,7 +26,7 @@
 - Week 4 BMI challenge  + Cooper Challenge in React/Rails
 - Week 5 SlowFood Challenge in React/Rails
 - Week 6 Mid course Project
-- Week 7 NewsRoom challenge (Make it into Legacy code)
+- Week 7 NewsRoom challenge 
 - Week 8 NewsRoom challenge
 - Week 9 NewsRoom challenge (Mobile client in React Native)
 - Week 10 Advanced Web Development Essentials + Deep Git Dive + NodeJS 
