@@ -29,6 +29,6 @@
 - Week 7 NewsRoom challenge 
 - Week 8 NewsRoom challenge
 - Week 9 NewsRoom challenge (Mobile client in React Native)
-- Week 10 Advanced Web Development Essentials + Deep Git Dive + NodeJS + DevOps + Security
+- Week 10 Advanced Web Development Essentials + Deep Git Dive + NodeJS + DevOps + Security + Student start to plan and design the Final Project
 - Week 11 Final Project
 - Week 12 Final Project
